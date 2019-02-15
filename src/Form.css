@@ -1,0 +1,23 @@
+.demoForm {
+	width: 500px;
+	margin: auto;
+	font-size: 15px;
+    text-align: center;
+    border: 5px solid pink;
+
+}
+.form{
+	width: 500px;
+	height: 400px;
+	margin: auto;
+	font-size: 15px;
+    text-align: center;
+    border: 10px solid pink;
+
+}
+.errorMsg {
+	color: #cc0000;
+  }
+  
+  
+  

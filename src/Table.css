@@ -1,0 +1,24 @@
+.Table-header {
+    background-color: #ccc;
+    color: blue;
+    padding: 10px;
+    text-align: left;
+}
+ 
+.Table2{
+    width: 500px;
+	height: 400px;
+	margin: auto;
+	font-size: 15px;
+    text-align: center;
+    border: 10px solid pink;
+
+}
+.List{
+    width: 500px;
+	height: auto;
+	margin: auto;
+	font-size: 15px;
+    text-align: center;
+    border: 10px solid pink;
+}
